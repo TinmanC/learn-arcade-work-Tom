@@ -1,0 +1,50 @@
+
+https://learn.arcade.academy/en/latest/chapters/06_what_is_a_programming_language/index.html
+
+6.5 Review Questions
+
+1. What do we call the main “brain” of the computer where all the processing happens?
+    CPU
+
+
+2. Instructions for a CPU are made up of a long sequence of what?
+    Numbers
+
+What is the name of the native language for CPUs?
+    Machine Language
+
+What is the difference between a CPU and a GPU?
+    GPU is a processor whose primary purpose is to run grpahics displays.
+
+Commands with a GPU can be processed by hundreds or thousands of what?
+    processors
+
+If machine language is a first-generation language, what is the second-generation language?
+    Assembly Language or 2GL
+
+What do we call the file that programmers type commands into?
+    source file
+
+What is the name of the program that turns assembly language into machine language?
+    compiler
+
+Third-generation languages usually fall into what three categories?
+Compiler
+Interpreted
+Runtime Environment
+
+What is the difference between a compiler and an interpreter?
+Compiler takes the original source code and uses a compiler to translate it to machine code, then user then runs the machine code
+
+Interpreter looks at the source code and translates/runs it line-by-line the compile step is not needed
+
+What generation of language is Python?
+3GL - Third Generation Language
+
+What are some of the most popular languages in use today, according to the TIOBE Index?
+
+Python
+c
+c++
+java
+PHP
